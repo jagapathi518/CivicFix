@@ -81,7 +81,7 @@ The frontend will start at `http://localhost:5173`
 
 ## 🏗️ Architecture
 
-```
+```text
 civicFix-prjct/
 ├── client/                 # React + Vite frontend
 │   └── src/
